@@ -1,0 +1,10 @@
+{
+    "kestudiocode.tT.toolchainVersion": "1.1.0",
+    "favorites.sortDirection": "ASC",
+    "speech.voice": "pl_PL",
+    "speech.speed": 1.35,
+    "speech.substitutions": {
+        "_": " podkreślenie",
+        "php": "piejczpi"
+    }
+}
